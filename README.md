@@ -1,7 +1,7 @@
 <p align="center">
 
-<h1 align="center">'Olá meu nome é Paulo Henrique👋</h1>
-<h1 align="center">sou desencolvedor mobile</h1>
+<h1 align="center">Olá meu nome é Paulo Henrique👋</h1>
+<h5 align="center">sou Desenvolvedor mobile</h5>
 
 
 
