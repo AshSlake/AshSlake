@@ -22,6 +22,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshSlake&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ashslake" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshSlake&show_icons=true&theme=dracula&locale=en" alt="AshSlake" />
+</p>
+
 
 
 
