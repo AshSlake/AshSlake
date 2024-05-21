@@ -4,10 +4,10 @@
 <h3 align="center">sou Desenvolvedor mobile</h3>
 <h4 align="center">'Adoro programar, principalmente em java, gosto de jogos,animes e RPG</h4>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/paulo-henrique-a85955285" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coppolaop" height="30" width="40" />
+  <a href="https://linkedin.com/in/paulo-henrique-a85955285">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashslake" height="30" width="40" />
   </a>
 </p>
 
