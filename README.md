@@ -14,7 +14,7 @@
 <h3 align="left">Linguagens:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://tmpfiles.nohat.cc/m2H7K9d3N4Z5i8G6.png" alt="jupyter" width="40" height="40" /> </a>
+   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/vetores-premium/vetor-premium-de-design-de-logotipo-do-planeta-jupiter_137499-83.jpg" alt="jupyter" width="40" height="40" /> </a>
 </p>
 
 <p align="left">
