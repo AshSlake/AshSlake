@@ -14,7 +14,7 @@
 <h3 align="left">Linguagens:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/584/701/png-clipart-moons-of-jupiter-planet-solar-system-jupiter-brown-saturn.png" alt="jupyter" width="40" height="40" /> </a>
+   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/share.png" alt="jupyter" width="40" height="40" /> </a>
 </p>
 
 <p align="left">
