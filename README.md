@@ -1,8 +1,8 @@
 <p align="center">
 
 <h1 align="center">Olá meu nome é Paulo Henrique👋</h1>
-<h3 align="center">sou Desenvolvedor mobile</h3>
-<h4 align="center">Adoro programar, principalmente em java, gosto de jogos,animes e RPG</h4>
+<h3 align="center">sou Desenvolvedor mobile || Desenvolvedor backEnd</h3>
+<h4 align="center">Adoro programar, principalmente em java, gosto de jogos, animes e RPG</h4>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
