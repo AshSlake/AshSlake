@@ -2,7 +2,8 @@
 
 <h1 align="center">Olá meu nome é Paulo Henrique👋</h1>
 <h3 align="center">Sou Desenvolvedor mobile || Desenvolvedor backEnd</h3>
-<h4 align="center">Adoro programar, principalmente em java, gosto de jogos, animes e RPG</h4>
+<h4 align="center">Adoro programar, principalmente em java, gosto de jogos, animes e RPG.
+estarei sempre publicando os codigos para compartilhar meu conhecimento com vocês</h4>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
