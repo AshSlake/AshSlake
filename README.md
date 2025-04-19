@@ -1,4 +1,3 @@
-
 <p align="center">
   <source
     media="(prefers-color-scheme: dark)"
@@ -35,19 +34,32 @@
     />
     </a>
   </a>
-
----
-## 🛠️ Technologies & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
 <p align="center">
-      <img align="center" src="https://komarev.com/ghpvc/?username=AshSlake&style=flat-square&base=500" />
+
+<h1 align="center">Olá meu nome é Paulo Henrique👋</h1>
+<h3 align="center">Sou Desenvolvedor mobile || Desenvolvedor backEnd</h3>
+<h4 align="center">Adoro programar, principalmente em java, gosto de jogos, animes e RPG.
+estarei sempre publicando os codigos para compartilhar meu conhecimento com vocês</h4>
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/paulo-henrique-a85955285">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashslake" height="30" width="40" />
+  </a>
 </p>
+
+<h3 align="left">Linguagens:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/share.png" alt="jupyter" width="75" height="40" /> </a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshSlake&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ashslake" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshSlake&show_icons=true&theme=dracula&locale=en" alt="AshSlake" />
+</p>
+
 
