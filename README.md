@@ -25,9 +25,9 @@
 </p>
 <a href="https://discord.com/users/845087927981309952">
     <img
-      width="380"
-      height="195"
-      align="left"
+      width="48"
+      height="48"
+      align="rigth"
       src="https://i.pinimg.com/736x/85/e9/d7/85e9d74f125bb82aa4be2478ce02bbd4.jpg"
     />
     </a>
