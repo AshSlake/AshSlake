@@ -22,6 +22,9 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=AshSlake&show_icons=true&theme=calm"
   />
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaade&layout=compact&theme=radical)
+
 </p>
 <a href="https://discord.com/users/845087927981309952">
     <img
@@ -44,9 +47,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaade&layout=compact&theme=radical)
-
 <p align="center">
       <img align="center" src="https://komarev.com/ghpvc/?username=AshSlake&style=flat-square&base=500" />
 </p>
