@@ -33,7 +33,7 @@
   <img
     width="380"
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=yorukot&show_icons=true&theme=calm"
+    src="https://github-readme-stats.vercel.app/api?username=AshSlake&show_icons=true&theme=calm"
   />
    <a href="https://wakatime.com/@9763e2a8-f66d-42c7-8668-f6ba4332829e">
   <img
