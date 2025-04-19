@@ -28,7 +28,7 @@
       width="380"
       height="195"
       align="left"
-      src="https://lanyard.cnrad.dev/api/579544867626024960?bg=FFFFFF00&animated=true&idleMessage=Well%2C%20the%20world%20sucks%2C%20but%20the%20engineering%20world%20is%20nice&borderRadius=30px"
+      src="https://i.pinimg.com/736x/85/e9/d7/85e9d74f125bb82aa4be2478ce02bbd4.jpg"
     />
     </a>
   </a>
