@@ -30,13 +30,11 @@ estarei sempre publicando os codigos para compartilhar meu conhecimento com voc√
 
   <a href="https://discord.com/users/845087927981309952">
     <img
-      width="48"
-      height="48"
-      align="rigth"
+      width="30"
+      height="40"
       src="https://i.pinimg.com/736x/85/e9/d7/85e9d74f125bb82aa4be2478ce02bbd4.jpg"
     />
     </a>
-  </a>
 </p>
 
 <h3 align="left">Linguagens:</h3>
