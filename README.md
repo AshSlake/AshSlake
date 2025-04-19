@@ -32,7 +32,9 @@
     />
     </a>
   </a>
- ## 🛠️ Technologies & Tools
+
+---
+## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -40,6 +42,10 @@
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaade&layout=compact&theme=radical)
 
 <p align="center">
       <img align="center" src="https://komarev.com/ghpvc/?username=AshSlake&style=flat-square&base=500" />
