@@ -15,25 +15,6 @@
     alt="Star History Chart"
     src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=I+LOVE+PROGRAMMING"
   />
-</p>
-  <img
-    width="380"
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=AshSlake&show_icons=true&theme=calm"
-  />
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaade&layout=compact&theme=radical)
-
-</p>
-<a href="https://discord.com/users/845087927981309952">
-    <img
-      width="48"
-      height="48"
-      align="rigth"
-      src="https://i.pinimg.com/736x/85/e9/d7/85e9d74f125bb82aa4be2478ce02bbd4.jpg"
-    />
-    </a>
-  </a>
 <p align="center">
 
 <h1 align="center">OlÃ¡ meu nome Ã© Paulo HenriqueðŸ‘‹</h1>
@@ -46,6 +27,16 @@ estarei sempre publicando os codigos para compartilhar meu conhecimento com vocÃ
   <a href="https://linkedin.com/in/paulo-henrique-a85955285">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashslake" height="30" width="40" />
   </a>
+
+  <a href="https://discord.com/users/845087927981309952">
+    <img
+      width="48"
+      height="48"
+      align="rigth"
+      src="https://i.pinimg.com/736x/85/e9/d7/85e9d74f125bb82aa4be2478ce02bbd4.jpg"
+    />
+    </a>
+  </a>
 </p>
 
 <h3 align="left">Linguagens:</h3>
@@ -56,6 +47,17 @@ estarei sempre publicando os codigos para compartilhar meu conhecimento com vocÃ
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshSlake&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ashslake" />
+</p>
+
+</p>
+  <img
+    width="380"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=AshSlake&show_icons=true&theme=calm"
+  />
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaade&layout=compact&theme=radical)
+
 </p>
 
 <p align="left">
