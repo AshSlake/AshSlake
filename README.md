@@ -45,10 +45,6 @@ estarei sempre publicando os codigos para compartilhar meu conhecimento com voc√
 
 ---
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshSlake&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ashslake" />
-</p>
-
 </p>
   <img
     width="380"
