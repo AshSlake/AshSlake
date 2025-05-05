@@ -37,6 +37,14 @@ estarei sempre publicando os codigos para compartilhar meu conhecimento com vocÃ
    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/share.png" alt="jupyter" width="75" height="40" /> </a>
 </p>
 
+## ðŸ“ˆ GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AshSlake&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshSlake&layout=compact&theme=radical)
+
+---
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshSlake&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ashslake" />
 </p>
