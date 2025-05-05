@@ -45,14 +45,6 @@ estarei sempre publicando os codigos para compartilhar meu conhecimento com voc√
 
 ---
 
-</p>
-  <img
-    width="380"
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=AshSlake&show_icons=true&theme=calm"
-  />
-
-</p>
 
 
 
