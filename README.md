@@ -37,6 +37,10 @@ estarei sempre publicando os codigos para compartilhar meu conhecimento com vocÃ
    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/share.png" alt="jupyter" width="75" height="40" /> </a>
 </p>
 
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Kuriyama_Mirai_flips_through_The_C_Programming_Language.gif"  />
+</div>
+
 ## ğŸ“ˆ GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AshSlake&show_icons=true&theme=radical)
